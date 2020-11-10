@@ -1,3 +1,4 @@
+[
 {
 		"imageRepo": "331455399823.dkr.ecr.us-east-2.amazonaws.com",
 		"imageName":"sfci/infrastructure-security/astciservice",
@@ -5,3 +6,4 @@
 		"imageSHA":"Testsha-1",
 		"imageRepoRegion": "us-east-2"
 }
+]
